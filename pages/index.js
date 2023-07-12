@@ -74,8 +74,10 @@ const Home = () => {
             <h2>"Get professional painting guidance at your fingertips with our virtual mate."</h2>
           </div>
         </div>
+        <div classname="container-1">
         <div className="logo-container">
           <Image src={paintmateLogo} alt="Your logo" />
+        </div>
         </div>
         <div className="prompt-container">
           <textarea
