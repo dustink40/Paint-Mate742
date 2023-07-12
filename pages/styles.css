@@ -10,7 +10,7 @@ body {
 .logo-container{
     width: 300px;
     height: 300px;
-    color: rgb(240, 6, 6);
+    color: white;
 
 }
 
@@ -18,7 +18,7 @@ body {
     display: flex;
     place-content: center flex-start;
     align-items: center;
-    background-color: rgb(0, 0, 0);
+    background-color: white;
     flex-flow: column nowrap;
     gap: 10px;
     height: 100vh;
